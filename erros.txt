@@ -1,0 +1,28 @@
+ x titulo - colocar nome do editor no canto esquerdo da tela.
+ x titulo - colocar como titulo da janela o nome do arquivo
+ x janela acaba na 20a linha.
+ x Colocar 2 linhas de comandos embaixo.
+ x linha de status fica sobre a barra de baixo da janela.
+ x fazer rotina de centralizacao desse texto da linha de status.
+ x retirar o marcador de linha e coluna do canto superior direito.
+ x fazer uma rotina para informar linha e coluna na linha de status (^C).
+ x usar blink e inverter o titulo e exatamente a linha de status - associar essa rotina com as atualizacoes de status.
+ x fazer a janela de help, destacando os comandos que nao estao implementados ainda.
+ x rotina para janelas - posicionar o titulo na mesma posicao, nao centralizar.
+ - nome do arquivo - salvar numa variavel e usar a rotina para enganar o TP3 (CP/M) e passar diretorios.
+ - arquivo - se nao tiver nome do arquivo, crie um arquivo novo.
+ x na saida, limpar todos os blinks.
+ 
+ 	function readstring - melhorar - voltar com a seta para esquerda, 
+backspace apagar voltando e del pra apagar no ponto onde está.
+
+-> /Z<número de linhas> - Limita o tamanho do arquivo a esse número de linhas,
+
+	/Y - Lê o arquivo primeiro, 
+		conta quantas linhas ele tem 
+			e trabalha com esse tamanho.
+ 
+ 
+ - colocar um easter egg - passa um parametro e vem aquele GNU nano em ASCII art.
+
+
